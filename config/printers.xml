@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<printers>
+    <defaultKitchenPrinter>
+        <defaultPrinter>true</defaultPrinter>
+        <deviceName>EPSON Stylus CX4900</deviceName>
+        <virtualPrinter>
+            <id>1</id>
+            <name>Mikyo</name>
+        </virtualPrinter>
+    </defaultKitchenPrinter>
+    <kitchenPrinters>
+        <defaultPrinter>true</defaultPrinter>
+        <deviceName>EPSON Stylus CX4900</deviceName>
+        <virtualPrinter>
+            <id>1</id>
+            <name>Mikyo</name>
+        </virtualPrinter>
+    </kitchenPrinters>
+    <receiptPrinter>EPSON Stylus CX4900</receiptPrinter>
+    <reportPrinter>EPSON Stylus CX4900</reportPrinter>
+</printers>

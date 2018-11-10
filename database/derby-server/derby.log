@@ -1,0 +1,11 @@
+Wed Apr 20 17:42:27 PHT 2016 : Apache Derby Network Server - 10.8.1.2 - (1095077) started and ready to accept connections on port 51527
+----------------------------------------------------------------
+Wed Apr 20 17:46:22 PHT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0154-330c-704e-000056dda543 
+on database directory /Users/mikyo/Desktop/floreantpos/database/derby-server/posdb  with class loader sun.misc.Launcher$AppClassLoader@33909752 
+Loaded from file:/Users/mikyo/Desktop/floreantpos/database/derby-server/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=/Users/mikyo/Desktop/floreantpos/database/derby-server
+derby.system.home=/Users/mikyo/Desktop/floreantpos/database/derby-server
+Database Class Loader started - derby.database.classpath=''
